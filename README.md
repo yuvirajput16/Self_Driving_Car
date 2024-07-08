@@ -54,4 +54,4 @@ Contributions are welcome! Please follow these steps to contribute:
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contact
-For any inquiries, please contact Tilak Sanghvi at [tilakcsanghvi@gmail.com](mailto:tilakcsanghvi@gmail.com).
+For any inquiries, please contact Yuvraj aingh at [ys62168@gmail.com](mailto:ys62168@gmail.com).
